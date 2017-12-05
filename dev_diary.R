@@ -8,3 +8,4 @@
 
 #This document will serve as development diary to keep track of the development process. Further it will describe why specific decisions in programming are made and how they are grounded in theory and literature. 
 
+
